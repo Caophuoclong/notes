@@ -1,0 +1,9 @@
+- [] Client
+  - [x] Config new project
+  - [x] Add authenticated
+  - [] Design view
+  - [] Implements view
+- [] Server
+  - [] Init server with Nest
+  - [] Implement Database with mysql
+  - [] Implement authenticated with auth0
